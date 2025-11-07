@@ -1,0 +1,7 @@
+C:/Users/ViliV/Desktop/Koulu/Olio-ohjelmointi ja oliopohjainen suunnittelu IN00CS88-3017/Koodit/Olio-ohjelmointi/h2b/build/CMakeFiles/h2b.dir
+C:/Users/ViliV/Desktop/Koulu/Olio-ohjelmointi ja oliopohjainen suunnittelu IN00CS88-3017/Koodit/Olio-ohjelmointi/h2b/build/CMakeFiles/edit_cache.dir
+C:/Users/ViliV/Desktop/Koulu/Olio-ohjelmointi ja oliopohjainen suunnittelu IN00CS88-3017/Koodit/Olio-ohjelmointi/h2b/build/CMakeFiles/rebuild_cache.dir
+C:/Users/ViliV/Desktop/Koulu/Olio-ohjelmointi ja oliopohjainen suunnittelu IN00CS88-3017/Koodit/Olio-ohjelmointi/h2b/build/CMakeFiles/list_install_components.dir
+C:/Users/ViliV/Desktop/Koulu/Olio-ohjelmointi ja oliopohjainen suunnittelu IN00CS88-3017/Koodit/Olio-ohjelmointi/h2b/build/CMakeFiles/install.dir
+C:/Users/ViliV/Desktop/Koulu/Olio-ohjelmointi ja oliopohjainen suunnittelu IN00CS88-3017/Koodit/Olio-ohjelmointi/h2b/build/CMakeFiles/install/local.dir
+C:/Users/ViliV/Desktop/Koulu/Olio-ohjelmointi ja oliopohjainen suunnittelu IN00CS88-3017/Koodit/Olio-ohjelmointi/h2b/build/CMakeFiles/install/strip.dir
